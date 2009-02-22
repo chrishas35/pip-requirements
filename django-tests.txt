@@ -1,3 +1,5 @@
+# Dependencies of the Django test-suite.
+
 PyYAML
 docutils
 markdown
