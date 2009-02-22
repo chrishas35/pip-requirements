@@ -1,0 +1,5 @@
+PyYAML
+docutils
+markdown
+textile
+setuptools
