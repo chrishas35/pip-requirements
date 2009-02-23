@@ -1,4 +1,6 @@
 # Tools useful when developing Django projects
 
--e svn+http://django-command-extensions.googlecode.com/svn/trunk/#egg=django-extensions
+-e svn+http://django-command-extensions.googlecode.com/svn/trunk#egg=django-extensions
 -e git://github.com/robhudson/django-debug-toolbar.git#egg=django-debug-toolbar
+ipython
+Werkzeug
